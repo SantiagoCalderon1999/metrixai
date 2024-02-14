@@ -95,3 +95,4 @@ ENV/
 
 # models
 *.pt
+*.pkl
